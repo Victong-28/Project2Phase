@@ -1,14 +1,15 @@
 ## Movie Studio Business Strategy Project
 ### Project Summary
-* This project was initiated to provide a data-driven strategy for a new movie studio with no prior industry experience. The primary goal was to explore trends in box office success and translate those findings into actionable insights that would guide the studio's initial film production decisions.
+* This project is initiated to provide a data-driven strategy for a new movie studio with no prior industry experience. The primary goal is to explore trends in box office success and translate those findings into actionable insights that would guide the studio's initial film production decisions.
 
 ### Business Problem
 * The company is entering the highly competitive film industry and needs a strategic plan to maximize its chances of profitability and minimize financial risk. The key challenge was to identify what types of films—based on factors like genre, budget, and rating—are most likely to succeed.
 
 ### Data & Methodology
 * Data Source: A comprehensive dataset containing information on thousands of movies, including production budgets, worldwide gross revenue, genre, rating, and director.
+* Data Cleaning: I used pandas for cleaning the datasets by filling missing numerical columns by mean and categorical columns by mode. The help of SQL and pandas inbult functions helped in reading the datasets and saving.
 
-* Key Metric: The analysis focused heavily on Return on Investment (ROI), a crucial measure of profitability relative to production cost.
+* Key Metric: The analysis focuses heavily on Return on Investment (ROI), a crucial measure of profitability relative to production cost.
 
 * Methodology: The project utilized a data analysis process to clean the raw data and generate visualizations (scatter plots and bar charts) to identify key relationships and trends.
 

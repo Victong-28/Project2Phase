@@ -28,3 +28,6 @@
 
 ### Conclusion
 * By adopting this data-driven strategy, the new movie studio can confidently enter the film industry, make informed decisions, and build a strong foundation for long-term success. The recommendations provide a clear, low-risk path to profitability without needing to compete directly with blockbuster giants.
+### Tableau Dashboard:
+* https://public.tableau.com/app/profile/victor.ongaki/viz/LanguagePerfomance/KPILanguagePerfomanceDashboard?publish=yes
+* https://public.tableau.com/app/profile/victor.ongaki/viz/InteractiveKPIDashboard1/StdiosproductionBudgetVSROIKPI?publish=yes

@@ -37,3 +37,4 @@
 ### Tableau Dashboard:
 * https://public.tableau.com/app/profile/victor.ongaki/viz/LanguagePerfomance/KPILanguagePerfomanceDashboard?publish=yes
 * https://public.tableau.com/app/profile/victor.ongaki/viz/InteractiveKPIDashboard1/StdiosproductionBudgetVSROIKPI?publish=yes
+* https://www.canva.com/design/DAGu6tmyEBw/v3ph58_H8aNdgXD8BQPObA/edit#

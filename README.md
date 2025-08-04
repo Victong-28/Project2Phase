@@ -25,6 +25,12 @@
 * Scout for Talent Based on ROI: Identify and partner with directors who have a proven track record of high average ROI, as director talent is a massive factor in profitability.
 
 * Target the G/PG-13 Sweet Spot: Develop films with G and PG-13 ratings to capture the widest possible audience and maximize revenue potential.
+### Technologies used
+* Python: The primary programming language used for the data analysis.
+
+* Pandas: A Python library used for data manipulation and cleaning. It helped in organizing the movie dataset.
+
+* Matplotlib and Seaborn: A Python library used for creating the visualizations (scatter plots and bar charts) to identify key relationships and trends in the data.
 
 ### Conclusion
 * By adopting this data-driven strategy, the new movie studio can confidently enter the film industry, make informed decisions, and build a strong foundation for long-term success. The recommendations provide a clear, low-risk path to profitability without needing to compete directly with blockbuster giants.
